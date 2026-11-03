@@ -4,9 +4,9 @@ import { useState, useEffect } from 'react';
 import api from './services/api';
 
 //Componentes
-import { Header } from './components/Header';
-import { Footer } from './components/Footer';
-import { ShowCard } from './components/ShowCard';
+import  Header  from './components/Header';
+import  Footer  from './components/Footer';
+import  ShowCard  from './components/ShowCard';
 
 //Estilos
 import { Main, Grid, StatusMessage } from './App.styles';
